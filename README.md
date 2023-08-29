@@ -5,7 +5,7 @@
 <img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/dd.png" width="300"/> <img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/crr.png" width="350"/> 
 <img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/msr.png" width="300"/> <img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/bp.png" width="300"/>  
 
-<img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/rets.png" width="550"/> <img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/tb-sp500.png" width="300"/> <img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/reg-1.png" width="300"/> 
+<img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/rets.png" width="450"/> <img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/tb-sp500.png" width="300"/>
 
 
-<center><img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/reg-2.png" width="500"/></center>
+<img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/reg-1.png" width="300"/> <center><img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/reg-2.png" width="500"/></center>
