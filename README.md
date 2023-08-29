@@ -22,4 +22,4 @@ Two datasets used:
 All data used are available in the "Data" folder of this repository.
 
  ## Code
- "Asset-Pricing.ipynb" + Auxiliary modules "risk-mod" and "Portfolio-mod"
+ "Asset-Pricing.ipynb" + Auxiliary modules "risk-mod" and "Portfolio-mod".
