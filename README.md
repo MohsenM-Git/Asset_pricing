@@ -1,14 +1,14 @@
 # Optimal Portfolio Theory and Asset Pricing
 
 
-<img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/ef.png" width="400"/> <img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/pr.png" width="400"/> 
-<img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/dd.png" width="400"/> <img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/crr.png" width="400"/> 
-<img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/msr.png" width="400"/> <img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/bp.png" width="400"/>  
+<img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/Images/ef.png" width="400"/> <img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/Images/pr.png" width="400"/> 
+<img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/Images/dd.png" width="400"/> <img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/Images/crr.png" width="400"/> 
+<img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/Images/msr.png" width="400"/> <img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/Images/bp.png" width="400"/>  
 
-<img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/rets.png" width="400"/> <img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/tb-sp500.png" width="400"/> <img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/reg-1.png" width="400"/> 
+<img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/Images/rets.png" width="400"/> <img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/Images/tb-sp500.png" width="400"/> <img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/Images/reg-1.png" width="400"/> 
 
 
-<center><img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/reg-2.png" width="500"/></center>
+<center><img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/Images/reg-2.png" width="500"/></center>
 
 ## Content
 * Introduction to the basics portfolio construction and Modern Portfolio Theory (MPT)
