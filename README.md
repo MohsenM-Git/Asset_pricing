@@ -21,7 +21,7 @@ The second application uses `daily stock returns` as well as `3-Month Treasury B
 
 I also conduct some preliminary tests which include the `Bartlett’s Test of sphericity` and the ` Kaiser-Meyer-Olkin (KMO)` test. The Bartlett’s test of sphericity compares an observed correlation matrix to the identity matrix. The `null hypothesis` of the test is that the variables are orthogonal, i.e. `not correlated`. The alternative hypothesis is that the variables are correlated enough for the correlation matrix to diverge significantly from the identity matrix. The test statistic has a Chi-Square distribution and its degree of freedom is equal to the number of variables in the matrix. On the other hand, the Kaiser-Meyer-Olkin (KMO) test is a measure of how suited the data is for `Factor Analysis`. The test measures sampling adequacy for each variable in the model and for the complete model. The statistic is a measure of the *proportion of variance among variables that might be common variance*. The lower the proportion, the more suited the data for `Factor Analysis`. KMO returns values between 0 and 1. As a rule of thumb, values between 0.8 and 1 indicate the sampling is adequate while values less than 0.6 are usually considered inadequate. 
 
- <img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/Images/ows.png" width="500"/> 
+ <img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/Images/ows.png" width="650"/> 
 Having conducted these basic tests, I construct the optimal portfolio of assets for a range of potential target returns. This analysis shows two important features of the data:
 * For almost all potential targets, the number of effective assets is noticeably smaller than the total number of available assets.
 * Best assets for different return ranges are different. For example, while `XEL` has the highest weight when targeting lower retuns, `MSFT` is the best option if we want to target high returns. 
@@ -30,7 +30,7 @@ This takes us to the last section of this notebook where I compare individual ch
 
 <center><img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/Images/reg-1.png" width="500"/></center>
 <center><img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/Images/reg-2.png" width="500"/></center>
-<center><img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/Images/reg-3.png" width="500"/></center>
+<center><img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/Images/reg-3.png" width="900"/></center>
 
 
 
