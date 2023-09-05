@@ -10,9 +10,9 @@ I start by a brief theoretical review the `Modern Portfolio Theory (MPT)`, which
 
 
 After introducing the framework, to better understand this model, as an example, I empirically analyze the historical monthly returns of various US industries from `1926-07` through `2023-06`. The dataset requires some basic `cleaning`, after which I compute and plot the `efficient frontier` as well as the `minimmum variance portfolio`. 
-<img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/Images/dd.png" width="400"/> <img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/Images/crr.png" width="400"/> 
 
- <img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/Images/bp.png" width="400"/>  
+
+<img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/Images/crr.png" width="400"/> <img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/Images/bp.png" width="400"/>  
 
 The second application uses `daily stock returns` as well as `3-Month Treasury Bill` retruns. The time period for this exercise runs from the beginning of `1990` through the end of `2022`, which is currently the last available data. This exercise requires a bit more `cleaning`. This is specially due to some `missing` data in stock returns, and **frequency mismatch** between the stock data and T-Bill data.
 
