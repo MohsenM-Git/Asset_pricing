@@ -1,10 +1,9 @@
 # Optimal Portfolio Theory and Asset Pricing
-<img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/Images/pic-1.png" width="400"/>
+<img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/Images/pic-1.png" width="600"/>
 
 
 ## Background
-<img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/Images/ef.png" width="4500"/> 
-
+<img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/Images/msr.png" width="500"/>
 I start by a brief theoretical review the `Modern Portfolio Theory (MPT)`, which is one of the pillars of portfolio construction. The modern portfolio theory (MPT) is a mathematical framework that maximizes the expected return of a portfolio for a given level of risk (or, alternatively minimize the risk for a given target return). This theory essentially formalizes the concept of `diversification` in investing by providing a coherent basis for comparing the contribution of each asset to the aggregate risk of a portfolio. Harry Markowitz (1952) first introduced this theory, for which he was later awarded a Nobel Prize in Economics. 
 
 <img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/Images/pr.png" width="450"/> 
@@ -13,7 +12,7 @@ I start by a brief theoretical review the `Modern Portfolio Theory (MPT)`, which
 After introducing the framework, to better understand this model, as an example, I empirically analyze the historical monthly returns of various US industries from `1926-07` through `2023-06`. The dataset requires some basic `cleaning`, after which I compute and plot the `efficient frontier` as well as the `minimmum variance portfolio`. 
 <img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/Images/dd.png" width="400"/> <img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/Images/crr.png" width="400"/> 
 
-<img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/Images/msr.png" width="400"/> <img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/Images/bp.png" width="400"/>  
+ <img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/Images/bp.png" width="400"/>  
 
 The second application uses `daily stock returns` as well as `3-Month Treasury Bill` retruns. The time period for this exercise runs from the beginning of `1990` through the end of `2022`, which is currently the last available data. This exercise requires a bit more `cleaning`. This is specially due to some `missing` data in stock returns, and **frequency mismatch** between the stock data and T-Bill data.
 
