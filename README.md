@@ -30,7 +30,7 @@ This takes us to the last section of this notebook where I compare individual ch
 
 <center><img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/Images/reg-1.png" width="500"/></center>
 <center><img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/Images/reg-2.png" width="500"/></center>
-<center><img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/Images/reg-3.png" width="900"/></center>
+<center><img src="https://github.com/MohsenM-Git/Asset_pricing/blob/main/Images/reg-3.png" width="950"/></center>
 
 
 
